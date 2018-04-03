@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0 auto;
+	background-color: transparent;
+	background-image: url("../img/burger.png");
+	background-size: cover;
+	background-position: top;
+	font-family: 'Times New Roman', cursive;
+	font-size: 150%;
+}
+
+
+
+h2 {
+	color: #000000;
+	font-family: 'Times New Roman', cursive;
+	font-style: italic;
+	font-size: 200%;
+	font-weight: bold;
+}
+
+/* .eatIt {
+	position: absolute;
+	top: 7px;
+	right: -115px;
+	color: #9A0D0F;
+} */
+
+/* .deleatIt {
+	position: absolute;
+	top: 7px;
+	right: -80px;
+	color: #000000;
+	background-color: #9A0D0F;
+	border-color: #000000;
+} */
+
+
+/* .sumbitRow {
+	margin: 65px 0 100px 0;
+}
+.submitBurger {
+	color: #9A0D0F;
+	margin-top: 20px;
+}
+textarea.form-control {
+	color: #000000;
+	border: 1px solid #000000;
+} */
+
+
+
+
+
+

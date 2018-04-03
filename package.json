@@ -1,16 +1,17 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Check out the app running heroku:",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/reesaj69/burger.git"
   },
-  "author": "",
+  "author": "Teresa Jackson",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/reesaj69/burger/issues"
@@ -22,5 +23,7 @@
     "express-handlebars": "^3.0.0",
     "method-override": "^2.3.10",
     "mysql": "^2.15.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
